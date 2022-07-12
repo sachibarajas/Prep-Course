@@ -1,0 +1,10 @@
+Variables: Son los nombres de los datos con los que voy a trabajer en el programa. Estos son de varios tipos como lo son números, texto, booleanos, entre otros. Para declarar una variable, utilizo la palabra var, luego el nombre que le quiero asignar, y despues con el igual, le asigno el valor que quiera.
+
+Strings: Son topos de datos de caracteres, o cadenas de caracteres que el programa interpreta como texto.
+
+Funciones: Son porciones de código que se escriben a parte porque serán utilizadas en varias ocasiones. Esto se hace con el fin de no tener que escribir de más si hay una funcionalidad del programa que se debe repetir. Una función puede o no recibir argumentos, los argumentos son datos o información que la función necesita para poder funcionar. Todas las funciones retornan el valor undefined por defecto, pero si queremos que retornen un valor en específico, debemos utilizar la instrucción return para que esta funcion al final de su ejecución retorne el valor deseado.
+
+Declaraciones (If): Las estructuras condicionales nos permiten modificar el flujo de ejecucion de las instrucciones del programa dependiendo de las condiciones que deseemos, estas sentencias nos permiten tomar decisiones sobre qué acciones tomar dependiendo de la información que va recibiendo el programa.
+
+Valores Booleanos: Las variables de tipo booleano solo pueden adquirir dos tipos de valor "true" o "false", son muy útiles para cuando necesitamos controlar ciertos eventos dentro de nuestro programa.
+
